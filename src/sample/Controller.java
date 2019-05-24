@@ -52,6 +52,7 @@ public class Controller {
 //        listView.setItems(items);
     }
 
+
     public void setListView() {
         observableList.add("poxos");
         listView.setItems(observableList);
